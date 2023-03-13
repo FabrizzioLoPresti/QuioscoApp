@@ -1,9 +1,0 @@
-INSERT INTO quioscoapp.orden (nombre,fecha,total,pedido,estado) VALUES
-	 ('Fabri','1678464385372',229.6,'[{"id": 1, "imagen": "cafe_01", "nombre": "Café Caramel con Chocolate", "precio": 59.9, "cantidad": 3}, {"id": 2, "imagen": "cafe_02", "nombre": "Café Frio con Chocolate Grande", "precio": 49.9, "cantidad": 1}]',0),
-	 ('Marcos','1678464832880',209.7,'[{"id": 53, "imagen": "pizzas_05", "nombre": "Pizza Chorizo", "precio": 69.9, "cantidad": 3}]',0),
-	 ('Luciano','1678464872889',164.7,'[{"id": 3, "imagen": "cafe_03", "nombre": "Latte Frio con Chocolate Grande", "precio": 54.9, "cantidad": 3}]',0),
-	 ('Carlos','1678464892126',189.7,'[{"id": 43, "imagen": "pastel_01", "nombre": "4 Rebanadas de Pay de Queso", "precio": 69.9, "cantidad": 2}, {"id": 44, "imagen": "pastel_02", "nombre": "Waffle Especial", "precio": 49.9, "cantidad": 1}]',0),
-	 ('Franco','1678464970623',119.8,'[{"id": 36, "imagen": "hamburguesas_02", "nombre": "Hamburguesa de Pollo", "precio": 59.9, "cantidad": 1}, {"id": 35, "imagen": "hamburguesas_01", "nombre": "Hamburguesa Sencilla", "precio": 59.9, "cantidad": 1}]',0),
-	 ('Nahuel','1678464991548',69.9,'[{"id": 49, "imagen": "pizzas_01", "nombre": "Pizza Spicy con Doble Queso", "precio": 69.9, "cantidad": 1}]',0),
-	 ('Juan Jose','1678465203706',199.3,'[{"id": 22, "imagen": "donas_08", "nombre": "Paquete de 3 donas de Chocolate ", "precio": 39.9, "cantidad": 3}, {"id": 21, "imagen": "donas_07", "nombre": "Dona de Chocolate con MÁS Chocolate ", "precio": 19.9, "cantidad": 1}, {"id": 19, "imagen": "donas_05", "nombre": "Dona glass con Chispas Sabor Fresa ", "precio": 19.9, "cantidad": 3}]',0),
-	 ('Tiempo Real','1678476614646',199.7,'[{"id": 1, "imagen": "cafe_01", "nombre": "Café Caramel con Chocolate", "precio": 59.9, "cantidad": 1}, {"id": 50, "imagen": "pizzas_02", "nombre": "Pizza Jamón y Queso", "precio": 69.9, "cantidad": 2}]',1);
